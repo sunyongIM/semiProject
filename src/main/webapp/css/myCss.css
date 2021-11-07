@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+table{
+	border : 1px solid black;
+	border-collapse: collapse; 
+	position : absolute;
+	/* left : 10%; */
+	top : 10%;
+}
+th{
+	border : 1px solid black;
+	border-collapse: collapse; 
+}
+td{
+	border : 1px solid black;
+	border-collapse: collapse; 
+}
+.bbsId{
+	width : 100px;
+}
+.bbsSub{
+	width : 150px;
+}
+.bbsMes{
+	height : 200px;
+	width : 300px;
+}
+#message{
+	width : 500px;
+}
+#logout{
+	margin-left : 100px;
+}
+#submit{
+	height : 120px;
+}
